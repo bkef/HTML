@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>my test is here</title>
+</head>
+<body>
+<h1>add image</h1>
+
+<a href="#destination"><h2>who is the president of canada</h2></a>
+<a href="https://yahoo.com">
+	<img src="waldo.png" alt="whats wrong!!" title="bia toooooooooo">
+</a>
+<p>擦に頼って走行する鉄道を指す言葉である。多くの一般的な鉄道がこれに該当し、転がり抵抗が少ないことからエネルギー浪費が他の交通機関と比べて極めて小さいという長所を備えている……
+ユーゴスラビア王国は、バルカン半島西部から中央ヨーロッパにかけての地域を領土とし、1918年から1943年までの期間に存続した立憲君主制の国家。事実上は国王が亡命した1941年に、公式にはユーゴスラビア連邦人民共和国成立前の1945年に滅亡した……
+トーマス・マコーリーは、イギリスの歴史家、詩人ならびに政治家。エディンバラ選出のホイッグ党下院議員だった。ホイッグ史観を代表する人物であり、著作『イングランド史』は今でもイギ</p>
+<img id="destination" src="trodo.jpg" alt="Erroooooor" title="its me">
+</body>
+</html>
