@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lng "en">
+<head>
+	<title>My Image Prjkt</title>
+</head>
+<body>
+	<h1>This is to test IMG tag</h1>
+	<p>Here I'll insert one image!</p>
+	<img src="IMG/pic1.jpg" alt="Error!" title="lets work>"
+</body>
+</html>
