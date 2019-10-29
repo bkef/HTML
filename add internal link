@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+	<title>My Image Prjkt</title>
+</head>
+<body>
+	<h1>This is to test IMG tag</h1>
+	<a href="#destination">where is waldo????????</a>
+	<p>Here I'll insert one image!</p>
+
+	
+	<a href="https://google.com">
+		<img src="IMG/pic1.jpg" alt="Error!" title= "fdfd">
+	</a>
+	<p>gsfdfgghhdkdlkjdhlhjdf'hfhjhkjhgdfdfd fd fdf dmf dmf.  fjdkjkffjhd fhd fjdk</p>
+	<br>
+	<p>dfsgjufkgjdgdsj'g'fskjgmngh</p>
+	<br>
+	<p>istory also includes the academic discipline which uses a narrative to examine and analyse a 
+<img id="destination" src="IMG/waldo.png">
+
+</body>
+</html>
