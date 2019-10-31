@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Recume</title>
+</head>
+<body>
+	<h1>My Name</h1>
+	<br>
+	<hr>
+	<br>
+
+	<h2>Profile</h2>
+	<br>
+	<p>
+		I had work experience in the field of computer software and networking and performing my duties with high responsibilities and innovative manners. I have keen interest to work with professionals leading to enrich my area of expertise. I consider myself as an organized and a problem solving person who can figure out the affair with discipline and patience. 
+	</p>
+	<br>
+	<hr>
+	<br>
+
+	<h2>Work Exp</h2>
+	<ol>
+		<li>Network Specialist</li>
+		<li>IT expert</li>
+	</ol>
+	<br>
+	<hr>
+	<br>
+	<h2>Study</h2>
+	<ol>
+	<li>Diploma of Network Administratior</li>
+	<li>Master of Computer Systems Networking and Telecommunications</li>		
+	</ol>
+	<br>
+	<hr>
+	<br>
+	<h2>Skills</h2>
+	<table border="1" cellpadding="20" cellspacing="10">
+		<tr>
+			<td>Linux</td>
+			<td>windows</td>
+		</tr>
+		<tr>
+			<td>SQL</td>
+			<td>storage</td>
+		</tr>
+		<tr>
+			<td>Virtualization</td>
+			<td>backup</td>
+		</tr>
+	</table>
+
+</body>
+</html>
