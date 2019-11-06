@@ -1,0 +1,26 @@
+a{
+  text-decoration: none;
+
+}
+ li{
+   display: ;
+   list-style-type: none;
+   border-right: 1px solid black;
+   padding: 5px;
+ }
+
+ header{
+ 	text-align: left;
+ }
+ table,th, td{
+ 	border:1px solid black;
+
+ }
+ th{
+ 	padding: 10px;
+ 	background-color: gray;
+ 
+ }
+ td{
+ 	text-align: center;
+ }
