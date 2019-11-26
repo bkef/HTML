@@ -1,0 +1,22 @@
+
+body{
+	background-image:url('../image/8.jpeg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	font-family: 'Fredoka One', cursive;
+	color: gray;
+	
+}
+#Logo{
+	width: 60px;
+	height: 60px;
+}
+.flag{
+	width: 30px;
+	height: 30px;	
+}
+h1, h2, h3{
+	color: gray;
+}
